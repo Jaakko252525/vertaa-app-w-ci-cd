@@ -1,0 +1,66 @@
+
+
+
+
+.app-background {
+    background: #3b3a3a;;
+}
+
+/* login form style */
+.form {
+    text-align: center;
+    position: relative;
+    top: 20px;
+
+}
+
+
+
+/* style for your sales card */
+
+.yourSales {
+    position: relative;
+    left: 1000px;
+}
+
+/* create sale */
+
+.createSale {
+
+    position: relative;
+    top: 70px;
+
+}
+
+
+
+/* page text style */
+
+.pageText {
+    position: relative;
+    top: 15px;
+}
+
+
+/* YourSalesAndCreateSale */
+
+.YourSalesAndCreateSale {
+    border: 10px solid black;
+
+}
+
+.YourSalesAndCreateSaleCardGroupSize {
+    height: 150px;
+    width: 550px;
+    position: relative;
+    right: -700px;
+}
+
+
+
+
+
+
+
+
+
