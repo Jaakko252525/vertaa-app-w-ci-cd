@@ -20,7 +20,7 @@ jobs:
           node-version: '20'
       - name: Install dependencies and start npm server
         run: |
-          cd frontend_4
+          cd frontend_
           npm install
           npm start
         working-directory: frontend
