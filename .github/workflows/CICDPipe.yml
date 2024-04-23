@@ -23,4 +23,4 @@ jobs:
           cd frontend_
           npm install
           npm start
-        working-directory: frontend
+        working-directory: frontend_
